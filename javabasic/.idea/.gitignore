@@ -2,11 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-<<<<<<< HEAD
 /../../../../../../:\Users\acer\IdeaProjects\DAT01\.idea/dataSources/
-=======
-/../../../../../../:\Users\acer\IdeaProjects\untitled1\.idea/dataSources/
->>>>>>> c9bd62c (bai tap)
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
