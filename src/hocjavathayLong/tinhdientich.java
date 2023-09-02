@@ -1,7 +1,7 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class baitapday2 {
+public class tinhdientich {
 
     public static void main(String[] args) {
 
